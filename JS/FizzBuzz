@@ -1,0 +1,7 @@
+Make a JavaScript program which says:
+  - Fizz if a number is divisible by three
+  - Buzz if a number is divisible by five
+  - FizzBuzz if a number is divisible by three and five
+
+Hint:
+  - Learn to use the modulo operator (%)
